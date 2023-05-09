@@ -2,33 +2,23 @@ import requests
 import json
 
 
-def get_data_employers_hh() -> None:
+def get_data_employers_hh(count_employers: int = 10) -> None:
     """
     Функция делает запрос на HH и берет данные 10 работодателей.
     После записывает в файл employers_data.json.
     Если файл уже был создан, то он перезаписывается.
+    :param count_employers: Кол-во получаемых работодателей. По умолчанию = 10
     :return: None
     """
-    # dict_data = {}
     params = {
         "only_with_vacancies": True,
-        "per_page": 10,
+        "per_page": count_employers,
     }
+
     data_employers = requests.get("https://api.hh.ru/employers", params=params).json()
 
     with open('employers_data.json', 'w', encoding="UTF-8") as file:
         json.dump(data_employers, file, indent=4)
-
-        #########
-
-    # for row in data_employers["items"]:
-    #     data_vacancies = requests.get(row["vacancies_url"]).json()
-    #     dict_data[row["id"]] = data_vacancies
-    #
-    # with open('vacancies_data.json', 'w', encoding="UTF-8") as file:
-    #     json.dump(dict_data, file, indent=4, ensure_ascii=False)
-    #
-    # return dict_data
 
 
 def get_data_vacancies_hh() -> None:
@@ -39,6 +29,7 @@ def get_data_vacancies_hh() -> None:
     :return: None
     """
     dict_data = {}
+
     with open('employers_data.json') as json_file:
         data = json.load(json_file)
 
@@ -47,9 +38,10 @@ def get_data_vacancies_hh() -> None:
         dict_data[row["id"]] = data_vacancies
 
     with open('vacancies_data.json', 'w', encoding="UTF-8") as file:
-        json.dump(dict_data, file, indent=4)
+        json.dump(dict_data, file, indent=4, ensure_ascii=True)
 
 
-get_data_employers_hh()
-get_data_vacancies_hh()
-
+if __name__ == "__main__":
+    """"""
+    get_data_employers_hh(3)
+    get_data_vacancies_hh()
