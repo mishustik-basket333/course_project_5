@@ -1,0 +1,3218 @@
+{
+    "36227": {
+        "items": [
+            {
+                "id": "79722317",
+                "premium": false,
+                "name": "Консультант / старший консультант по работе с ТЦ",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1",
+                    "name": "Москва",
+                    "url": "https://api.hh.ru/areas/1"
+                },
+                "salary": {
+                    "from": 150000,
+                    "to": 200000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": null,
+                    "street": null,
+                    "building": null,
+                    "lat": null,
+                    "lng": null,
+                    "description": null,
+                    "raw": "Москва, улица Пречистенка, д. 40/2 стр.1",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "238111"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-24T12:07:04+0300",
+                "created_at": "2023-04-24T12:07:04+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79722317",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79722317?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79722317",
+                "relations": [],
+                "employer": {
+                    "id": "36227",
+                    "name": "000 МАГАЗИН МАГАЗИНОВ - Эксперт по торговой недвижимости",
+                    "url": "https://api.hh.ru/employers/36227",
+                    "alternate_url": "https://hh.ru/employer/36227",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/2419770.png",
+                        "90": "https://hhcdn.ru/employer-logo/2419769.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/494504.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=36227",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Успешный опыт сдачи в аренду торговых помещений в торговых центрах от 2 лет. Хорошее знание рынка торговой недвижимости, текущих арендных...",
+                    "responsibility": "Участие в разработке и реализации программы по повышению эффективности действующих торговых центров в портфеле компании: усиление состава арендаторов, ротация, реконцепция. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": true,
+                "professional_roles": [
+                    {
+                        "id": "154",
+                        "name": "Брокер"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between3And6",
+                    "name": "От 3 до 6 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            }
+        ],
+        "found": 1,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=36227&enable_snippets=true"
+    },
+    "3643187": {
+        "items": [
+            {
+                "id": "79572301",
+                "premium": false,
+                "name": "Водитель-курьер",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "160",
+                    "name": "Алматы",
+                    "url": "https://api.hh.ru/areas/160"
+                },
+                "salary": {
+                    "from": 300000,
+                    "to": null,
+                    "currency": "KZT",
+                    "gross": true
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Алматы",
+                    "street": "улица Муратбаева",
+                    "building": "180",
+                    "lat": 43.247073,
+                    "lng": 76.919791,
+                    "description": null,
+                    "raw": "Алматы, улица Муратбаева, 180",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "1811912"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-20T07:57:20+0300",
+                "created_at": "2023-04-20T07:57:20+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79572301",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79572301?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79572301",
+                "relations": [],
+                "employer": {
+                    "id": "3643187",
+                    "name": "001KZ (001КЗ)",
+                    "url": "https://api.hh.ru/employers/3643187",
+                    "alternate_url": "https://hh.ru/employer/3643187",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/619773.jpg",
+                        "240": "https://hhcdn.ru/employer-logo/2920245.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/2920244.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3643187",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Опыт вождения не менее 1,5 лет!",
+                    "responsibility": null
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "21",
+                        "name": "Водитель"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79372175",
+                "premium": false,
+                "name": "Оператор контакт-центра",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "160",
+                    "name": "Алматы",
+                    "url": "https://api.hh.ru/areas/160"
+                },
+                "salary": {
+                    "from": 185000,
+                    "to": null,
+                    "currency": "KZT",
+                    "gross": true
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Алматы",
+                    "street": "улица Муратбаева",
+                    "building": "180",
+                    "lat": 43.247073,
+                    "lng": 76.919791,
+                    "description": null,
+                    "raw": "Алматы, улица Муратбаева, 180",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "1811912"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-17T10:07:18+0300",
+                "created_at": "2023-04-17T10:07:18+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79372175",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79372175?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79372175",
+                "relations": [],
+                "employer": {
+                    "id": "3643187",
+                    "name": "001KZ (001КЗ)",
+                    "url": "https://api.hh.ru/employers/3643187",
+                    "alternate_url": "https://hh.ru/employer/3643187",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/619773.jpg",
+                        "240": "https://hhcdn.ru/employer-logo/2920245.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/2920244.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3643187",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Уверенный пользователь ПК. Знание стандартных программ Excel, Word и т.д.. Работа с оргтехникой. Быстрая обучаемость, ответственность. Нацеленность на результат. ",
+                    "responsibility": "Прием обращений от клиентов и консультация по вопросам гарантии/возврата/обмена (письменная/устная). Получение первичной медиа/текст-информации и обработка..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "83",
+                        "name": "Оператор call-центра, специалист контактного центра"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79729449",
+                "premium": false,
+                "name": "Грузчик - упаковщик",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "160",
+                    "name": "Алматы",
+                    "url": "https://api.hh.ru/areas/160"
+                },
+                "salary": {
+                    "from": 220000,
+                    "to": null,
+                    "currency": "KZT",
+                    "gross": true
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Алматы",
+                    "street": "улица Муратбаева",
+                    "building": "180",
+                    "lat": 43.247073,
+                    "lng": 76.919791,
+                    "description": null,
+                    "raw": "Алматы, улица Муратбаева, 180",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "1811912"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-24T13:33:28+0300",
+                "created_at": "2023-04-24T13:33:28+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79729449",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79729449?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79729449",
+                "relations": [],
+                "employer": {
+                    "id": "3643187",
+                    "name": "001KZ (001КЗ)",
+                    "url": "https://api.hh.ru/employers/3643187",
+                    "alternate_url": "https://hh.ru/employer/3643187",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/619773.jpg",
+                        "240": "https://hhcdn.ru/employer-logo/2920245.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/2920244.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3643187",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Готовности к физическим нагрузкам. Активности и динамичности. Аккуратности и внимательности. Ответственности и честность.",
+                    "responsibility": "Оперативно и бережно разгружать и погружать товар. Размещать товар на складе, согласно его маркировке. Переносить товар и сортировать его. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "31",
+                        "name": "Грузчик"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79982585",
+                "premium": false,
+                "name": "Грузчик - упаковщик",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "160",
+                    "name": "Алматы",
+                    "url": "https://api.hh.ru/areas/160"
+                },
+                "salary": {
+                    "from": 175000,
+                    "to": null,
+                    "currency": "KZT",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Алматы",
+                    "street": "проспект Суюнбая",
+                    "building": "258/4",
+                    "lat": 43.367657,
+                    "lng": 76.972154,
+                    "description": null,
+                    "raw": "Алматы, проспект Суюнбая, 258/4",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "12166165"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-02T12:04:26+0300",
+                "created_at": "2023-05-02T12:04:26+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79982585",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79982585?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79982585",
+                "relations": [],
+                "employer": {
+                    "id": "3643187",
+                    "name": "001KZ (001КЗ)",
+                    "url": "https://api.hh.ru/employers/3643187",
+                    "alternate_url": "https://hh.ru/employer/3643187",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/619773.jpg",
+                        "240": "https://hhcdn.ru/employer-logo/2920245.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/2920244.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3643187",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Готовности к физическим нагрузкам. Активности и динамичности. Аккуратности и внимательности. Ответственности и честность. Только официальное трудоустройство. Зарплата только на карту.",
+                    "responsibility": "Оперативно и бережно разгружать и погружать товар. Размещать товар на складе, согласно его маркировке. Переносить товар и сортировать его. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "31",
+                        "name": "Грузчик"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            }
+        ],
+        "found": 4,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=3643187&enable_snippets=true"
+    },
+    "6105570": {
+        "items": [
+            {
+                "id": "79952047",
+                "premium": false,
+                "name": "Бариста",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "2061",
+                    "name": "Подольск (Московская область)",
+                    "url": "https://api.hh.ru/areas/2061"
+                },
+                "salary": {
+                    "from": 25000,
+                    "to": 30000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Подольск",
+                    "street": "улица Генерала Варенникова",
+                    "building": "4",
+                    "lat": 55.417097,
+                    "lng": 37.488511,
+                    "description": null,
+                    "raw": "Подольск, улица Генерала Варенникова, 4",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "13063783"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-01T11:37:57+0300",
+                "created_at": "2023-05-01T11:37:57+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79952047",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79952047?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79952047",
+                "relations": [],
+                "employer": {
+                    "id": "6105570",
+                    "name": "01_coffee, кофейня",
+                    "url": "https://api.hh.ru/employers/6105570",
+                    "alternate_url": "https://hh.ru/employer/6105570",
+                    "logo_urls": {
+                        "90": "https://hhcdn.ru/employer-logo/5991505.png",
+                        "240": "https://hhcdn.ru/employer-logo/5991506.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/1092721.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6105570",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Опыт работы в данной вакансии приветствуется, но если нет, то обучение проводится внутри компании. Желание работать и обучаться. ",
+                    "responsibility": "Соблюдение стандартов. Работа с рожковой кофе-машиной – приготовление эспрессо и кофейных напитков по тех. стандартам. Продажа готовой выпечки прохладительных напитков. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "89",
+                        "name": "Официант, бармен, бариста"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            }
+        ],
+        "found": 1,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=6105570&enable_snippets=true"
+    },
+    "9677861": {
+        "items": [
+            {
+                "id": "80123777",
+                "premium": false,
+                "name": "Повар",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1",
+                    "name": "Москва",
+                    "url": "https://api.hh.ru/areas/1"
+                },
+                "salary": {
+                    "from": 75000,
+                    "to": 80000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Москва",
+                    "street": "Большой Трёхсвятительский переулок",
+                    "building": "2/1с8",
+                    "lat": 55.75483997955228,
+                    "lng": 37.64299130102182,
+                    "description": null,
+                    "raw": "Москва, Большой Трёхсвятительский переулок, 2/1с8",
+                    "metro": {
+                        "station_name": "Китай-город",
+                        "line_name": "Калужско-Рижская",
+                        "station_id": "6.50",
+                        "line_id": "6",
+                        "lat": 55.756498,
+                        "lng": 37.631326
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Китай-город",
+                            "line_name": "Калужско-Рижская",
+                            "station_id": "6.50",
+                            "line_id": "6",
+                            "lat": 55.756498,
+                            "lng": 37.631326
+                        },
+                        {
+                            "station_name": "Китай-город",
+                            "line_name": "Таганско-Краснопресненская",
+                            "station_id": "7.51",
+                            "line_id": "7",
+                            "lat": 55.75436,
+                            "lng": 37.633877
+                        },
+                        {
+                            "station_name": "Курская",
+                            "line_name": "Арбатско-Покровская",
+                            "station_id": "3.70",
+                            "line_id": "3",
+                            "lat": 55.758564,
+                            "lng": 37.659039
+                        },
+                        {
+                            "station_name": "Чкаловская",
+                            "line_name": "Люблинско-Дмитровская",
+                            "station_id": "10.72",
+                            "line_id": "10",
+                            "lat": 55.755951,
+                            "lng": 37.659293
+                        }
+                    ],
+                    "id": "12964417"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-04T19:11:45+0300",
+                "created_at": "2023-05-04T19:11:45+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80123777",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/80123777?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/80123777",
+                "relations": [],
+                "employer": {
+                    "id": "9677861",
+                    "name": "036Kebab",
+                    "url": "https://api.hh.ru/employers/9677861",
+                    "alternate_url": "https://hh.ru/employer/9677861",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/1073357.jpeg",
+                        "240": "https://hhcdn.ru/employer-logo/5914058.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/5914057.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9677861",
+                    "trusted": false
+                },
+                "snippet": {
+                    "requirement": "Образование среднее специальное/высшее. Опыт работы – поваром не менее 1 лет. Опыт управления сотрудниками. Знание норм САНПИН, технологических нормативных документов. ",
+                    "responsibility": "Организация и контроль процесса приготовления блюд по технологическим картам. Участие в приготовлении блюд. Ежедневное составление заказа продукции внутренним и внешним..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "94",
+                        "name": "Повар, пекарь, кондитер"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "78451372",
+                "premium": false,
+                "name": "Барбэк /помощник официанта",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1",
+                    "name": "Москва",
+                    "url": "https://api.hh.ru/areas/1"
+                },
+                "salary": {
+                    "from": 60000,
+                    "to": 60000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Москва",
+                    "street": "Большой Трёхсвятительский переулок",
+                    "building": "2/1с8",
+                    "lat": 55.75483997955228,
+                    "lng": 37.64299130102182,
+                    "description": null,
+                    "raw": "Москва, Большой Трёхсвятительский переулок, 2/1с8",
+                    "metro": {
+                        "station_name": "Китай-город",
+                        "line_name": "Калужско-Рижская",
+                        "station_id": "6.50",
+                        "line_id": "6",
+                        "lat": 55.756498,
+                        "lng": 37.631326
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Китай-город",
+                            "line_name": "Калужско-Рижская",
+                            "station_id": "6.50",
+                            "line_id": "6",
+                            "lat": 55.756498,
+                            "lng": 37.631326
+                        },
+                        {
+                            "station_name": "Китай-город",
+                            "line_name": "Таганско-Краснопресненская",
+                            "station_id": "7.51",
+                            "line_id": "7",
+                            "lat": 55.75436,
+                            "lng": 37.633877
+                        },
+                        {
+                            "station_name": "Курская",
+                            "line_name": "Арбатско-Покровская",
+                            "station_id": "3.70",
+                            "line_id": "3",
+                            "lat": 55.758564,
+                            "lng": 37.659039
+                        },
+                        {
+                            "station_name": "Чкаловская",
+                            "line_name": "Люблинско-Дмитровская",
+                            "station_id": "10.72",
+                            "line_id": "10",
+                            "lat": 55.755951,
+                            "lng": 37.659293
+                        }
+                    ],
+                    "id": "12964417"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-19T15:08:32+0300",
+                "created_at": "2023-04-19T15:08:32+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78451372",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/78451372?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/78451372",
+                "relations": [],
+                "employer": {
+                    "id": "9677861",
+                    "name": "036Kebab",
+                    "url": "https://api.hh.ru/employers/9677861",
+                    "alternate_url": "https://hh.ru/employer/9677861",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/1073357.jpeg",
+                        "240": "https://hhcdn.ru/employer-logo/5914058.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/5914057.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9677861",
+                    "trusted": false
+                },
+                "snippet": {
+                    "requirement": "Знание кассовой дисциплины. Знание Iiko.",
+                    "responsibility": "Работа бариста. Работа в зале."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "89",
+                        "name": "Официант, бармен, бариста"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "part",
+                    "name": "Частичная занятость"
+                }
+            }
+        ],
+        "found": 2,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=9677861&enable_snippets=true"
+    },
+    "4429980": {
+        "items": [
+            {
+                "id": "79358979",
+                "premium": false,
+                "name": "Продавец-консультант в магазин вина (кавист)",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "19",
+                    "name": "Брянск",
+                    "url": "https://api.hh.ru/areas/19"
+                },
+                "salary": {
+                    "from": 30000,
+                    "to": 80000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Брянск",
+                    "street": "Бежицкая улица",
+                    "building": "6А",
+                    "lat": 53.269909,
+                    "lng": 34.355053,
+                    "description": null,
+                    "raw": "Брянск, Бежицкая улица, 6А",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "3385954"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-17T07:52:55+0300",
+                "created_at": "2023-04-17T07:52:55+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79358979",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79358979?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79358979",
+                "relations": [],
+                "employer": {
+                    "id": "4429980",
+                    "name": "0901",
+                    "url": "https://api.hh.ru/employers/4429980",
+                    "alternate_url": "https://hh.ru/employer/4429980",
+                    "logo_urls": {
+                        "90": "https://hhcdn.ru/employer-logo/3257128.png",
+                        "240": "https://hhcdn.ru/employer-logo/3257129.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/704003.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4429980",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Мобильность. Быстрообучаемость. Опыт в продажах. Желание развиваться в индустрии виноделия и виноторговли. Знание ПК. Активность в соц. сетях. Креативное мышление. ",
+                    "responsibility": "Консультация покупателей по подбору вина. Наблюдение за порядком в винотеке. Приемка и выгрузка товара. Участие в инвентаризациях. Ведение кассово-регистрационной..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            }
+        ],
+        "found": 1,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=4429980&enable_snippets=true"
+    },
+    "8893984": {
+        "items": [
+            {
+                "id": "79918128",
+                "premium": false,
+                "name": "Ведущий менеджер по продажам",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "159",
+                    "name": "Астана",
+                    "url": "https://api.hh.ru/areas/159"
+                },
+                "salary": {
+                    "from": 300000,
+                    "to": 450000,
+                    "currency": "KZT",
+                    "gross": true
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Нур-Султан (Астана)",
+                    "street": "проспект Абая",
+                    "building": "13",
+                    "lat": 51.166657,
+                    "lng": 71.408079,
+                    "description": null,
+                    "raw": "Нур-Султан (Астана), проспект Абая, 13",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "10699300"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-28T13:26:19+0300",
+                "created_at": "2023-04-28T13:26:19+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79918128",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79918128?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79918128",
+                "relations": [],
+                "employer": {
+                    "id": "8893984",
+                    "name": "1000 Батыр",
+                    "url": "https://api.hh.ru/employers/8893984",
+                    "alternate_url": "https://hh.ru/employer/8893984",
+                    "logo_urls": null,
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8893984",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Презентационные и переговорные навыки. Хорошие коммуникативные способности (общение с людьми, легко, доступно и открыто; работа с возражениями). Уверенный пользователь ПК. ",
+                    "responsibility": "Привлечение новых клиентов. Проведение переговоров с клиентами и заключение договоров. Выполнение плана продаж. Работа с клиентами (координация основных аспектов договора..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": true,
+                "professional_roles": [
+                    {
+                        "id": "70",
+                        "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            }
+        ],
+        "found": 1,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=8893984&enable_snippets=true"
+    },
+    "3857386": {
+        "items": [
+            {
+                "id": "80033449",
+                "premium": false,
+                "name": "Продавец-кассир",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1232",
+                    "name": "Березовский (Кемеровская область)",
+                    "url": "https://api.hh.ru/areas/1232"
+                },
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Берёзовский",
+                    "street": "Парковая улица",
+                    "building": "21",
+                    "lat": 55.660506,
+                    "lng": 86.282267,
+                    "description": null,
+                    "raw": "Берёзовский, Парковая улица, 21",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "6652828"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-03T10:29:36+0300",
+                "created_at": "2023-05-03T10:29:36+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80033449",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/80033449?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/80033449",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Ответственность, стремление к результату, обучаемость, активная жизненная позиция.",
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Обслуживание покупателей на..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "77816589",
+                "premium": false,
+                "name": "Маркетолог",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 55000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Кемерово",
+                    "street": "улица Баумана",
+                    "building": "57Б",
+                    "lat": 55.32161,
+                    "lng": 86.104499,
+                    "description": null,
+                    "raw": "Кемерово, улица Баумана, 57Б",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "3060589"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-18T04:57:09+0300",
+                "created_at": "2023-04-18T04:57:09+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=77816589",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/77816589?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/77816589",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Профильное образование. Умение работать в графических редакторах. Аналитическое мышление. Знание 1С. Опыт работы в ритейле.",
+                    "responsibility": "Разработка и реализация маркетинговых мероприятий в розничной сети. Маркетинговое сопровождение при открытии новых магазинов. Взаимодействие с внешними контрагентами. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "40",
+                        "name": "Другое"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "78060793",
+                "premium": false,
+                "name": "Продавец-кассир",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1242",
+                    "name": "Полысаево",
+                    "url": "https://api.hh.ru/areas/1242"
+                },
+                "salary": {
+                    "from": 30000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Полысаево",
+                    "street": "улица Космонавтов",
+                    "building": "66",
+                    "lat": 54.601104,
+                    "lng": 86.286309,
+                    "description": null,
+                    "raw": "Полысаево, улица Космонавтов, 66",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "7079993"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-03T04:17:56+0300",
+                "created_at": "2023-05-03T04:17:56+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78060793",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/78060793?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/78060793",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Если нет опыта- научим всему!!!!",
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Обслуживание покупателей на..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "73486207",
+                "premium": false,
+                "name": "Кладовщик-комплектовщик",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 40000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Кемерово",
+                    "street": "Промышленный проезд",
+                    "building": "32",
+                    "lat": 55.321364,
+                    "lng": 86.143109,
+                    "description": null,
+                    "raw": "Кемерово, Промышленный проезд, 32",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "7509191"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-26T09:26:32+0300",
+                "created_at": "2023-04-26T09:26:32+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=73486207",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/73486207?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/73486207",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Образование не ниже среднего. Опыт работы кладовщиком приветствуется. Надёжность, ответственность, внимательность и аккуратность. Готовность работать в команде.",
+                    "responsibility": "Приемка и сборка товара. Распределение товара на складе. Погрузочные и разгрузочные работы."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "131",
+                        "name": "Упаковщик, комплектовщик"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "78544824",
+                "premium": false,
+                "name": "Грузчик",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 27000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Кемерово",
+                    "street": "Промышленный проезд",
+                    "building": "32",
+                    "lat": 55.321364,
+                    "lng": 86.143109,
+                    "description": null,
+                    "raw": "Кемерово, Промышленный проезд, 32",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "7509191"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-20T09:35:42+0300",
+                "created_at": "2023-04-20T09:35:42+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78544824",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/78544824?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/78544824",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Готовность к физическому труду. Ответственность и дисциплинированность.",
+                    "responsibility": "Осуществление разгрузочных, погрузочных работ. Размещение товара на складах предприятия. Поддержание чистоты на территории склада."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "31",
+                        "name": "Грузчик"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "75539545",
+                "premium": false,
+                "name": "Продавец-кассир",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1235",
+                    "name": "Киселевск",
+                    "url": "https://api.hh.ru/areas/1235"
+                },
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Киселёвск",
+                    "street": "Западный проезд",
+                    "building": "3",
+                    "lat": 53.996948,
+                    "lng": 86.540784,
+                    "description": null,
+                    "raw": "Киселёвск, Западный проезд, 3",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "12770238"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-03T10:06:31+0300",
+                "created_at": "2023-05-03T10:06:31+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=75539545",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/75539545?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/75539545",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Ответственность, стремление к результату, обучаемость, активная жизненная позиция.",
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Обслуживание покупателей на..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79180965",
+                "premium": false,
+                "name": "Продавец-грузчик",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "3695",
+                    "name": "Промышленная",
+                    "url": "https://api.hh.ru/areas/3695"
+                },
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "посёлок городского типа Промышленная",
+                    "street": "улица Н. Островского",
+                    "building": "20Г",
+                    "lat": 54.908635,
+                    "lng": 85.633584,
+                    "description": null,
+                    "raw": "посёлок городского типа Промышленная, улица Н. Островского, 20Г",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "7572708"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-26T10:07:53+0300",
+                "created_at": "2023-04-26T10:07:53+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79180965",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79180965?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79180965",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Погрузочно-разгрузочные работы. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "77187047",
+                "premium": false,
+                "name": "Продавец-грузчик",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1235",
+                    "name": "Киселевск",
+                    "url": "https://api.hh.ru/areas/1235"
+                },
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Киселёвск",
+                    "street": "Западный проезд",
+                    "building": "3",
+                    "lat": 53.996948,
+                    "lng": 86.540784,
+                    "description": null,
+                    "raw": "Киселёвск, Западный проезд, 3",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "12770238"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-24T06:37:22+0300",
+                "created_at": "2023-04-24T06:37:22+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=77187047",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/77187047?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/77187047",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Погрузочно-разгрузочные работы. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79180297",
+                "premium": false,
+                "name": "Продавец-грузчик (ТЦ Облака)",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": null,
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-18T04:57:16+0300",
+                "created_at": "2023-04-18T04:57:16+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79180297",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79180297?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79180297",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Погрузочно-разгрузочные работы."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79180299",
+                "premium": false,
+                "name": "Продавец-грузчик",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": null,
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-14T05:16:17+0300",
+                "created_at": "2023-04-14T05:16:17+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79180299",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79180299?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79180299",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Погрузочно-разгрузочные работы."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79706596",
+                "premium": false,
+                "name": "Продавец-кассир (Пр Шахтеров,76)",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 30000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Кемерово",
+                    "street": "проспект Шахтёров",
+                    "building": "76",
+                    "lat": 55.40867,
+                    "lng": 86.126768,
+                    "description": null,
+                    "raw": "Кемерово, проспект Шахтёров, 76",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "6222607"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-02T11:20:59+0300",
+                "created_at": "2023-05-02T11:20:59+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79706596",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79706596?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79706596",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Ответственность, стремление к результату, обучаемость, активная жизненная позиция.",
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации))."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "76246006",
+                "premium": false,
+                "name": "Продавец- кассир (ТЦ Радуга)",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Кемерово",
+                    "street": "проспект Шахтёров",
+                    "building": "54",
+                    "lat": 55.399704,
+                    "lng": 86.11792,
+                    "description": null,
+                    "raw": "Кемерово, проспект Шахтёров, 54",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "12469264"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-02T06:40:29+0300",
+                "created_at": "2023-05-02T06:40:29+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=76246006",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/76246006?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/76246006",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Ответственность, стремление к результату, обучаемость, активная жизненная позиция.",
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Обслуживание покупателей на..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "77798709",
+                "premium": false,
+                "name": "Продавец-кассир (ТЦ Облака)",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 30000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Кемерово",
+                    "street": "Кузнецкий проспект",
+                    "building": "33/1",
+                    "lat": 55.358427,
+                    "lng": 86.064892,
+                    "description": null,
+                    "raw": "Кемерово, Кузнецкий проспект, 33/1",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "6223148"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-02T06:40:37+0300",
+                "created_at": "2023-05-02T06:40:37+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=77798709",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/77798709?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/77798709",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Обслуживание покупателей на..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "76323848",
+                "premium": false,
+                "name": "Продавец-кассир (ТП Cотка)",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Кемерово",
+                    "street": "улица Тухачевского",
+                    "building": "50",
+                    "lat": 55.31848,
+                    "lng": 86.136677,
+                    "description": null,
+                    "raw": "Кемерово, улица Тухачевского, 50",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "6576363"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-02T06:40:32+0300",
+                "created_at": "2023-05-02T06:40:32+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=76323848",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/76323848?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/76323848",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Обслуживание покупателей на..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79753073",
+                "premium": false,
+                "name": "Продавец-кассир (ТЦ Юг)",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "47",
+                    "name": "Кемерово",
+                    "url": "https://api.hh.ru/areas/47"
+                },
+                "salary": {
+                    "from": 30000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Кемерово",
+                    "street": "Автозаводская улица",
+                    "building": "1",
+                    "lat": 55.326496,
+                    "lng": 86.068315,
+                    "description": null,
+                    "raw": "Кемерово, Автозаводская улица, 1",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "6158194"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-02T06:40:34+0300",
+                "created_at": "2023-05-02T06:40:34+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79753073",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79753073?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79753073",
+                "relations": [],
+                "employer": {
+                    "id": "3857386",
+                    "name": "1000 ДЛЯ УДОБНОЙ ЖИЗНИ",
+                    "url": "https://api.hh.ru/employers/3857386",
+                    "alternate_url": "https://hh.ru/employer/3857386",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/3410262.png",
+                        "90": "https://hhcdn.ru/employer-logo/3410261.png",
+                        "original": "https://hhcdn.ru/employer-logo-original/742325.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857386",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": "Работа с товаром (выкладка, контроль наличия актуальных ценников, сроков годности, участие в инвентаризации). Консультация покупателей в зале. Обслуживание покупателей на..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            }
+        ],
+        "found": 15,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=3857386&enable_snippets=true"
+    },
+    "5064090": {
+        "items": [
+            {
+                "id": "79422367",
+                "premium": false,
+                "name": "Повар горячего цеха",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "2",
+                    "name": "Санкт-Петербург",
+                    "url": "https://api.hh.ru/areas/2"
+                },
+                "salary": {
+                    "from": null,
+                    "to": 75000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Санкт-Петербург",
+                    "street": "Ленинский проспект",
+                    "building": "104",
+                    "lat": 59.852624,
+                    "lng": 30.226881,
+                    "description": null,
+                    "raw": "Санкт-Петербург, Ленинский проспект, 104",
+                    "metro": {
+                        "station_name": "Автово",
+                        "line_name": "Кировско-Выборгская",
+                        "station_id": "14.206",
+                        "line_id": "14",
+                        "lat": 59.867325,
+                        "lng": 30.261337
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Автово",
+                            "line_name": "Кировско-Выборгская",
+                            "station_id": "14.206",
+                            "line_id": "14",
+                            "lat": 59.867325,
+                            "lng": 30.261337
+                        },
+                        {
+                            "station_name": "Ленинский проспект",
+                            "line_name": "Кировско-Выборгская",
+                            "station_id": "14.207",
+                            "line_id": "14",
+                            "lat": 59.85117,
+                            "lng": 30.268274
+                        },
+                        {
+                            "station_name": "Проспект Ветеранов",
+                            "line_name": "Кировско-Выборгская",
+                            "station_id": "14.208",
+                            "line_id": "14",
+                            "lat": 59.84211,
+                            "lng": 30.250588
+                        }
+                    ],
+                    "id": "5096115"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-17T20:23:13+0300",
+                "created_at": "2023-04-17T20:23:13+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79422367",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79422367?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79422367",
+                "relations": [],
+                "employer": {
+                    "id": "5064090",
+                    "name": "1000 Ибу",
+                    "url": "https://api.hh.ru/employers/5064090",
+                    "alternate_url": "https://hh.ru/employer/5064090",
+                    "logo_urls": null,
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5064090",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": null
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "94",
+                        "name": "Повар, пекарь, кондитер"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            }
+        ],
+        "found": 1,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=5064090&enable_snippets=true"
+    },
+    "54794": {
+        "items": [
+            {
+                "id": "79991882",
+                "premium": false,
+                "name": "Водитель с личным легковым автомобилем",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "2",
+                    "name": "Санкт-Петербург",
+                    "url": "https://api.hh.ru/areas/2"
+                },
+                "salary": {
+                    "from": 40000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Санкт-Петербург",
+                    "street": "Мельничная улица",
+                    "building": "8",
+                    "lat": 59.915147,
+                    "lng": 30.396061,
+                    "description": null,
+                    "raw": "Санкт-Петербург, Мельничная улица, 8",
+                    "metro": {
+                        "station_name": "Площадь Александра Невского 2",
+                        "line_name": "Правобережная",
+                        "station_id": "17.240",
+                        "line_id": "17",
+                        "lat": 59.923563,
+                        "lng": 30.383421
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Площадь Александра Невского 2",
+                            "line_name": "Правобережная",
+                            "station_id": "17.240",
+                            "line_id": "17",
+                            "lat": 59.923563,
+                            "lng": 30.383421
+                        }
+                    ],
+                    "id": "233938"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-02T13:49:52+0300",
+                "created_at": "2023-05-02T13:49:52+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79991882",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79991882?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79991882",
+                "relations": [],
+                "employer": {
+                    "id": "54794",
+                    "name": "1000 и одна сумка",
+                    "url": "https://api.hh.ru/employers/54794",
+                    "alternate_url": "https://hh.ru/employer/54794",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/5798266.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/5798265.jpeg",
+                        "original": "https://hhcdn.ru/employer-logo-original/1044402.jpg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=54794",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Водительские права категория B. Пунктуальность. Хорошее знание города.",
+                    "responsibility": null
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "21",
+                        "name": "Водитель"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79986738",
+                "premium": false,
+                "name": "Оператор ПК",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "2",
+                    "name": "Санкт-Петербург",
+                    "url": "https://api.hh.ru/areas/2"
+                },
+                "salary": {
+                    "from": 40000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Санкт-Петербург",
+                    "street": "Мельничная улица",
+                    "building": "8",
+                    "lat": 59.915147,
+                    "lng": 30.396061,
+                    "description": null,
+                    "raw": "Санкт-Петербург, Мельничная улица, 8",
+                    "metro": {
+                        "station_name": "Площадь Александра Невского 2",
+                        "line_name": "Правобережная",
+                        "station_id": "17.240",
+                        "line_id": "17",
+                        "lat": 59.923563,
+                        "lng": 30.383421
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Площадь Александра Невского 2",
+                            "line_name": "Правобережная",
+                            "station_id": "17.240",
+                            "line_id": "17",
+                            "lat": 59.923563,
+                            "lng": 30.383421
+                        }
+                    ],
+                    "id": "233938"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-02T12:49:25+0300",
+                "created_at": "2023-05-02T12:49:25+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79986738",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79986738?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79986738",
+                "relations": [],
+                "employer": {
+                    "id": "54794",
+                    "name": "1000 и одна сумка",
+                    "url": "https://api.hh.ru/employers/54794",
+                    "alternate_url": "https://hh.ru/employer/54794",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/5798266.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/5798265.jpeg",
+                        "original": "https://hhcdn.ru/employer-logo-original/1044402.jpg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=54794",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Уверенный пользователь ПК. Знание 1С 8.2 документооборота.",
+                    "responsibility": "Работа в 1С. Оформление поступления, перемещения ТМЦ. Оформление возврата. Работа с первичной документацией. Ведение отчетности. Участие в инвентаризации на..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "84",
+                        "name": "Оператор ПК, оператор базы данных"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79141835",
+                "premium": false,
+                "name": "Кладовщик на склад",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "2",
+                    "name": "Санкт-Петербург",
+                    "url": "https://api.hh.ru/areas/2"
+                },
+                "salary": {
+                    "from": 40000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Санкт-Петербург",
+                    "street": "Мельничная улица",
+                    "building": "8",
+                    "lat": 59.915147,
+                    "lng": 30.396061,
+                    "description": null,
+                    "raw": "Санкт-Петербург, Мельничная улица, 8",
+                    "metro": {
+                        "station_name": "Площадь Александра Невского 2",
+                        "line_name": "Правобережная",
+                        "station_id": "17.240",
+                        "line_id": "17",
+                        "lat": 59.923563,
+                        "lng": 30.383421
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Площадь Александра Невского 2",
+                            "line_name": "Правобережная",
+                            "station_id": "17.240",
+                            "line_id": "17",
+                            "lat": 59.923563,
+                            "lng": 30.383421
+                        }
+                    ],
+                    "id": "233938"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-11T10:06:50+0300",
+                "created_at": "2023-04-11T10:06:50+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79141835",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79141835?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79141835",
+                "relations": [],
+                "employer": {
+                    "id": "54794",
+                    "name": "1000 и одна сумка",
+                    "url": "https://api.hh.ru/employers/54794",
+                    "alternate_url": "https://hh.ru/employer/54794",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/5798266.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/5798265.jpeg",
+                        "original": "https://hhcdn.ru/employer-logo-original/1044402.jpg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=54794",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": "Складские операции: Cборка и комплектование товара. Сборка и комплектование заказов. Приемка товара. Проведение инвентаризаций."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "52",
+                        "name": "Кладовщик"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79295770",
+                "premium": false,
+                "name": "Администратор магазина",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1571",
+                    "name": "Орск",
+                    "url": "https://api.hh.ru/areas/1571"
+                },
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Орск",
+                    "street": "микрорайон Новый город, улица Васнецова",
+                    "building": "16",
+                    "lat": 51.222791,
+                    "lng": 58.495983,
+                    "description": null,
+                    "raw": "Орск, микрорайон Новый город, улица Васнецова, 16",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "7249330"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-04-14T10:42:56+0300",
+                "created_at": "2023-04-14T10:42:56+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79295770",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79295770?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79295770",
+                "relations": [],
+                "employer": {
+                    "id": "54794",
+                    "name": "1000 и одна сумка",
+                    "url": "https://api.hh.ru/employers/54794",
+                    "alternate_url": "https://hh.ru/employer/54794",
+                    "logo_urls": {
+                        "240": "https://hhcdn.ru/employer-logo/5798266.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/5798265.jpeg",
+                        "original": "https://hhcdn.ru/employer-logo-original/1044402.jpg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=54794",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Опыт управления коллективом от 4 человек. Знание кассовой дисциплины‚ нормативной базы в области обслуживания потребителей. Успешный опыт прохождения проверок контролирующих...",
+                    "responsibility": "Ведение переговоров. Взаимодействие с контролирующими органами. Контроль и обеспечение соблюдения персоналом магазина стандартов обслуживания‚ создание комфортной и доброжелательной атмосферы в..."
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "9",
+                        "name": "Администратор магазина, администратор торгового зала"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            }
+        ],
+        "found": 4,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=54794&enable_snippets=true"
+    },
+    "1327757": {
+        "items": [
+            {
+                "id": "79795355",
+                "premium": false,
+                "name": "Менеджер по работе с маркетплейсами",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "2",
+                    "name": "Санкт-Петербург",
+                    "url": "https://api.hh.ru/areas/2"
+                },
+                "salary": {
+                    "from": 50000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Санкт-Петербург",
+                    "street": "Ириновский проспект",
+                    "building": "2",
+                    "lat": 59.953655,
+                    "lng": 30.44925,
+                    "description": null,
+                    "raw": "Санкт-Петербург, Ириновский проспект, 2",
+                    "metro": {
+                        "station_name": "Ладожская",
+                        "line_name": "Правобережная",
+                        "station_id": "17.242",
+                        "line_id": "17",
+                        "lat": 59.93243,
+                        "lng": 30.439274
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Ладожская",
+                            "line_name": "Правобережная",
+                            "station_id": "17.242",
+                            "line_id": "17",
+                            "lat": 59.93243,
+                            "lng": 30.439274
+                        },
+                        {
+                            "station_name": "Новочеркасская",
+                            "line_name": "Правобережная",
+                            "station_id": "17.241",
+                            "line_id": "17",
+                            "lat": 59.929092,
+                            "lng": 30.411915
+                        }
+                    ],
+                    "id": "589696"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-07T17:32:54+0300",
+                "created_at": "2023-05-07T17:32:54+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79795355",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79795355?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79795355",
+                "relations": [],
+                "employer": {
+                    "id": "1327757",
+                    "name": "1000 и одна туфелька",
+                    "url": "https://api.hh.ru/employers/1327757",
+                    "alternate_url": "https://hh.ru/employer/1327757",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/688035.jpg",
+                        "240": "https://hhcdn.ru/employer-logo/3193273.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/3193272.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1327757",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Опыт работы с Ozon и Wildberries обязателен. Знание основ товарного учета и наличие опыта работы в 1С, Excel будет...",
+                    "responsibility": "Работа с кабинетами Ozon и Wildberries. Оформление новых и контроль существующих карточек товаров. Размещение фото/видео контента в карточках товара. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "68",
+                        "name": "Менеджер по маркетингу, интернет-маркетолог"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79889148",
+                "premium": false,
+                "name": "Продавец-консультант в магазин детской обуви в ТРК ГРАНД КАНЬОН",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "2",
+                    "name": "Санкт-Петербург",
+                    "url": "https://api.hh.ru/areas/2"
+                },
+                "salary": {
+                    "from": 40000,
+                    "to": 100000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Санкт-Петербург",
+                    "street": "проспект Энгельса",
+                    "building": "154",
+                    "lat": 60.059117,
+                    "lng": 30.334975,
+                    "description": null,
+                    "raw": "Санкт-Петербург, проспект Энгельса, 154",
+                    "metro": {
+                        "station_name": "Озерки",
+                        "line_name": "Московско-Петроградская",
+                        "station_id": "15.211",
+                        "line_id": "15",
+                        "lat": 60.037098,
+                        "lng": 30.321495
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Озерки",
+                            "line_name": "Московско-Петроградская",
+                            "station_id": "15.211",
+                            "line_id": "15",
+                            "lat": 60.037098,
+                            "lng": 30.321495
+                        },
+                        {
+                            "station_name": "Парнас",
+                            "line_name": "Московско-Петроградская",
+                            "station_id": "15.209",
+                            "line_id": "15",
+                            "lat": 60.06699,
+                            "lng": 30.333839
+                        },
+                        {
+                            "station_name": "Проспект Просвещения",
+                            "line_name": "Московско-Петроградская",
+                            "station_id": "15.210",
+                            "line_id": "15",
+                            "lat": 60.051456,
+                            "lng": 30.332544
+                        }
+                    ],
+                    "id": "639877"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-06T16:29:18+0300",
+                "created_at": "2023-05-06T16:29:18+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79889148",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79889148?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79889148",
+                "relations": [],
+                "employer": {
+                    "id": "1327757",
+                    "name": "1000 и одна туфелька",
+                    "url": "https://api.hh.ru/employers/1327757",
+                    "alternate_url": "https://hh.ru/employer/1327757",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/688035.jpg",
+                        "240": "https://hhcdn.ru/employer-logo/3193273.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/3193272.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1327757",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Горящих глаз и желания развиваться в продажах. Способности оперативно погрузиться в наш продукт, чтобы грамотно использовать знания в работе. ",
+                    "responsibility": "Работать только с теплыми и горячими клиентами (входящий трафик). Помогать покупателям в подборе обуви и аксессуаров, переходить в успешную сделку. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79889154",
+                "premium": false,
+                "name": "Продавец-консультант в магазин детской обуви в ТК Французский бульвар",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "2",
+                    "name": "Санкт-Петербург",
+                    "url": "https://api.hh.ru/areas/2"
+                },
+                "salary": {
+                    "from": 40000,
+                    "to": 60000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Санкт-Петербург",
+                    "street": "бульвар Новаторов",
+                    "building": "11к2",
+                    "lat": 59.850066,
+                    "lng": 30.268383,
+                    "description": null,
+                    "raw": "Санкт-Петербург, бульвар Новаторов, 11к2",
+                    "metro": {
+                        "station_name": "Автово",
+                        "line_name": "Кировско-Выборгская",
+                        "station_id": "14.206",
+                        "line_id": "14",
+                        "lat": 59.867325,
+                        "lng": 30.261337
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Автово",
+                            "line_name": "Кировско-Выборгская",
+                            "station_id": "14.206",
+                            "line_id": "14",
+                            "lat": 59.867325,
+                            "lng": 30.261337
+                        },
+                        {
+                            "station_name": "Ленинский проспект",
+                            "line_name": "Кировско-Выборгская",
+                            "station_id": "14.207",
+                            "line_id": "14",
+                            "lat": 59.85117,
+                            "lng": 30.268274
+                        },
+                        {
+                            "station_name": "Проспект Ветеранов",
+                            "line_name": "Кировско-Выборгская",
+                            "station_id": "14.208",
+                            "line_id": "14",
+                            "lat": 59.84211,
+                            "lng": 30.250588
+                        }
+                    ],
+                    "id": "5813933"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-06T16:29:18+0300",
+                "created_at": "2023-05-06T16:29:18+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79889154",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79889154?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79889154",
+                "relations": [],
+                "employer": {
+                    "id": "1327757",
+                    "name": "1000 и одна туфелька",
+                    "url": "https://api.hh.ru/employers/1327757",
+                    "alternate_url": "https://hh.ru/employer/1327757",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/688035.jpg",
+                        "240": "https://hhcdn.ru/employer-logo/3193273.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/3193272.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1327757",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Горящих глаз и желания развиваться в продажах. Способности оперативно погрузиться в наш продукт, чтобы грамотно использовать знания в работе. ",
+                    "responsibility": "Работать только с теплыми и горячими клиентами (входящий трафик). Помогать покупателям в подборе обуви и аксессуаров, переходить в успешную сделку. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            },
+            {
+                "id": "79889028",
+                "premium": false,
+                "name": "Продавец-консультант в магазин детской обуви в ТРК РАДУГА",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "2",
+                    "name": "Санкт-Петербург",
+                    "url": "https://api.hh.ru/areas/2"
+                },
+                "salary": {
+                    "from": 40000,
+                    "to": 100000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Санкт-Петербург",
+                    "street": "проспект Космонавтов",
+                    "building": "14",
+                    "lat": 59.868948,
+                    "lng": 30.35048,
+                    "description": null,
+                    "raw": "Санкт-Петербург, проспект Космонавтов, 14",
+                    "metro": {
+                        "station_name": "Бухарестская",
+                        "line_name": "Фрунзенско-Приморская",
+                        "station_id": "18.259",
+                        "line_id": "18",
+                        "lat": 59.883769,
+                        "lng": 30.368932
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Бухарестская",
+                            "line_name": "Фрунзенско-Приморская",
+                            "station_id": "18.259",
+                            "line_id": "18",
+                            "lat": 59.883769,
+                            "lng": 30.368932
+                        },
+                        {
+                            "station_name": "Международная",
+                            "line_name": "Фрунзенско-Приморская",
+                            "station_id": "18.260",
+                            "line_id": "18",
+                            "lat": 59.870203,
+                            "lng": 30.379289
+                        },
+                        {
+                            "station_name": "Парк Победы",
+                            "line_name": "Московско-Петроградская",
+                            "station_id": "15.223",
+                            "line_id": "15",
+                            "lat": 59.866344,
+                            "lng": 30.321802
+                        }
+                    ],
+                    "id": "639884"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2023-05-06T16:27:31+0300",
+                "created_at": "2023-05-06T16:27:31+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79889028",
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/79889028?host=hh.ru",
+                "adv_response_url": null,
+                "alternate_url": "https://hh.ru/vacancy/79889028",
+                "relations": [],
+                "employer": {
+                    "id": "1327757",
+                    "name": "1000 и одна туфелька",
+                    "url": "https://api.hh.ru/employers/1327757",
+                    "alternate_url": "https://hh.ru/employer/1327757",
+                    "logo_urls": {
+                        "original": "https://hhcdn.ru/employer-logo-original/688035.jpg",
+                        "240": "https://hhcdn.ru/employer-logo/3193273.jpeg",
+                        "90": "https://hhcdn.ru/employer-logo/3193272.jpeg"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1327757",
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Горящих глаз и желания развиваться в продажах. Способности оперативно погрузиться в наш продукт, чтобы грамотно использовать знания в работе. ",
+                    "responsibility": "Работать только с теплыми и горячими клиентами (входящий трафик). Помогать покупателям в подборе обуви и аксессуаров, переходить в успешную сделку. "
+                },
+                "contacts": null,
+                "schedule": null,
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                }
+            }
+        ],
+        "found": 4,
+        "pages": 1,
+        "per_page": 20,
+        "page": 0,
+        "clusters": null,
+        "arguments": null,
+        "alternate_url": "https://hh.ru/search/vacancy?employer_id=1327757&enable_snippets=true"
+    }
+}
