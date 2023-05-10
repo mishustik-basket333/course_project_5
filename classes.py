@@ -1,17 +1,107 @@
-import requests
+import psycopg2
+from my_data import my_user, my_password
 
-class HeadHunterAPI:
-    """Класс для работы с API Head Hunter"""
 
-    def get_request(self, key_word, page):
-        """Метод делает запрос на https://api.hh.ru/vacancies и возвращает результат в формате json по ключу [items]"""
-        params = {
-            "text": key_word,
-            "page": page,
-            "per_page": VACANCY_COUNT,
-        }
-        try:
-            return requests.get("https://api.hh.ru/vacancies", params=params).json()["items"]
-        except requests.exceptions.ConnectionError as e:
-            print(e)
-            print("Ошибка при запросе. Ошибка соединения")
+class DBManager:
+    """Класс для подключения и работы с DB postgres"""
+
+    def __init__(self, database: str = "course_project_5", user: str = my_user,
+                 password: str = my_password, host: str = "127.0.0.1", port="5432"):
+        self.__database = database
+        self.__user = user
+        self.__password = password
+        self.__host = host
+        self.__port = port
+
+    def get_companies_and_vacancies_count(self):
+        """Получает список всех компаний и количество вакансий у каждой компании"""
+        con = psycopg2.connect(database=self.__database, user=self.__user,
+                               password=self.__password, host=self.__host, port=self.__port
+                               )
+
+        cur = con.cursor()
+        cur.execute(
+            '''SELECT name, count_open_vacancies FROM employers;'''
+        )
+        data = cur.fetchall()
+        cur.close()
+        con.close()
+        return data
+
+    def get_all_vacancies(self):
+        """
+        Получает список всех вакансий с указанием названия компании,
+        названия вакансии и зарплаты и ссылки на вакансию
+        """
+        con = psycopg2.connect(database=self.__database, user=self.__user,
+                               password=self.__password, host=self.__host, port=self.__port
+                               )
+
+        cur = con.cursor()
+        cur.execute(
+            '''SELECT vacancies.name,employers.name, salary_from, salary_to, vacancies.url  
+            FROM vacancies, employers 
+            WHERE vacancies.employers_id = employers.id;'''
+        )
+        data = cur.fetchall()
+        cur.close()
+        con.close()
+        return data
+
+    def get_avg_salary(self):
+        """ Получает среднюю зарплату по вакансиям"""
+        con = psycopg2.connect(database=self.__database, user=self.__user,
+                               password=self.__password, host=self.__host, port=self.__port
+                               )
+        cur = con.cursor()
+        cur.execute(
+            '''SELECT AVG (salary_from) FROM vacancies;'''
+        )
+        data = cur.fetchall()
+        cur.close()
+        con.close()
+        return data
+
+    def get_vacancies_with_higher_salary(self):
+        """ Получает список всех вакансий, у которых зарплата выше средней по всем вакансиям."""
+        con = psycopg2.connect(database=self.__database, user=self.__user,
+                               password=self.__password, host=self.__host, port=self.__port
+                               )
+
+        cur = con.cursor()
+        cur.execute(
+            '''SELECT * FROM vacancies
+            WHERE salary_from > (SELECT AVG (salary_from) FROM vacancies)'''
+        )
+        data = cur.fetchall()
+        cur.close()
+        con.close()
+        return data
+
+    def get_vacancies_with_keyword(self, word):
+        """ Получает список всех вакансий, в названии которых содержатся переданные в метод слова, например 'python'"""
+        con = psycopg2.connect(database=self.__database, user=self.__user,
+                               password=self.__password, host=self.__host, port=self.__port
+                               )
+
+        cur = con.cursor()
+        cur.execute(
+            f"SELECT * FROM vacancies WHERE name LIKE '%{word}%'"
+        )
+        data = cur.fetchall()
+        cur.close()
+        con.close()
+        return data
+
+
+if __name__ == "__main__":
+    aaa = DBManager(database="course_project_5", user="postgres", password="qwerty")
+    data_1 = aaa.get_companies_and_vacancies_count()
+    data_2 = aaa.get_all_vacancies()
+    data_3 = aaa.get_avg_salary()
+    data_4 = aaa.get_vacancies_with_higher_salary()
+    data_5 = aaa.get_vacancies_with_keyword("Грузчик")
+
+    for row in data_5:
+        print(row)
+    print(len(data_5))
