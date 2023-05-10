@@ -1,10 +1,12 @@
 import psycopg2
+from my_data import my_user, my_password
 
 
 class DBManager:
     """Класс для подключения и работы с DB postgres"""
 
-    def __init__(self, database="course_project_5", user="postgres", password="qwerty", host="127.0.0.1", port="5432"):
+    def __init__(self, database: str = "course_project_5", user: str = my_user,
+                 password: str = my_password, host: str = "127.0.0.1", port="5432"):
         self.__database = database
         self.__user = user
         self.__password = password
@@ -38,7 +40,8 @@ class DBManager:
         cur = con.cursor()
         cur.execute(
             '''SELECT vacancies.name,employers.name, salary_from, salary_to, vacancies.url  
-            FROM vacancies, employers ;'''
+            FROM vacancies, employers 
+            WHERE vacancies.employers_id = employers.id;'''
         )
         data = cur.fetchall()
         cur.close()
@@ -50,7 +53,6 @@ class DBManager:
         con = psycopg2.connect(database=self.__database, user=self.__user,
                                password=self.__password, host=self.__host, port=self.__port
                                )
-
         cur = con.cursor()
         cur.execute(
             '''SELECT AVG (salary_from) FROM vacancies;'''

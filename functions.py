@@ -2,16 +2,17 @@ import requests
 import json
 
 
-def get_data_employers_hh(count_employers: int = 10) -> None:
+def get_data_employers_hh(count_employers: int = 10, only_with_vacancies: bool = True) -> None:
     """
-    Функция делает запрос на HH и берет данные 10 работодателей.
+    Функция делает запрос на HH и берет данные работодателей.
     После записывает в файл employers_data.json.
     Если файл уже был создан, то он перезаписывается.
+    :param only_with_vacancies: Если True - вывод работодателей с активными вакансиями и наоборот.
     :param count_employers: Кол-во получаемых работодателей. По умолчанию = 10
     :return: None
     """
     params = {
-        "only_with_vacancies": True,
+        "only_with_vacancies": only_with_vacancies,
         "per_page": count_employers,
     }
 
@@ -21,16 +22,17 @@ def get_data_employers_hh(count_employers: int = 10) -> None:
         json.dump(data_employers, file, indent=4)
 
 
-def get_data_vacancies_hh() -> None:
+def get_data_vacancies_hh(file_json: str = 'employers_data.json') -> None:
     """
-    Функция берет данные по работодателям из файла employers_data.json и делает запрос по вакансиям на HH.
+    Функция берет данные по работодателям из файла file_json и делает запрос по вакансиям на HH.
     После записывает в файл vacancies_data.json.
     Если файл уже был создан, то он перезаписывается.
+    :param: file_json: Файл из которого будут браться данные для запроса
     :return: None
     """
     dict_data = {}
 
-    with open('employers_data.json') as json_file:
+    with open(file_json) as json_file:
         data = json.load(json_file)
 
     for row in data["items"]:
@@ -42,6 +44,4 @@ def get_data_vacancies_hh() -> None:
 
 
 if __name__ == "__main__":
-    """"""
-    get_data_employers_hh(3)
-    get_data_vacancies_hh()
+    pass

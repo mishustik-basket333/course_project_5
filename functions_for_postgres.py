@@ -1,5 +1,6 @@
 import psycopg2
 import json
+from my_data import my_password, my_user
 
 
 def create_table_employers_postgres() -> None:
@@ -7,11 +8,12 @@ def create_table_employers_postgres() -> None:
     Функция подключается к БД course_project_5 и создаёт таблицу employers
     :return: None
     """
-    con = psycopg2.connect(database="course_project_5", user="postgres",
-                           password="qwerty", host="127.0.0.1", port="5432"
+    con = psycopg2.connect(database="course_project_5",
+                           user=my_user,
+                           password=my_password,
+                           host="127.0.0.1",
+                           port="5432"
                            )
-    #    print("Database: course_project_5 opened successfully")
-
     cur = con.cursor()
     cur.execute('''CREATE TABLE employers
          (id int PRIMARY KEY NOT NULL,
@@ -19,21 +21,20 @@ def create_table_employers_postgres() -> None:
          url TEXT,
          count_open_vacancies INT NOT NULL);'''
                 )
-
-    # print("Table: employers created successfully")
-
     con.commit()
     con.close()
 
 
 def create_table_vacancies_postgres() -> None:
-    """"""
-    con = psycopg2.connect(database="course_project_5", user="postgres",
-                           password="qwerty", host="127.0.0.1", port="5432"
+    """
+    Функция подключается к БД course_project_5 и создаёт таблицу vacancies
+    :return: None"""
+    con = psycopg2.connect(database="course_project_5",
+                           user=my_user,
+                           password=my_password,
+                           host="127.0.0.1",
+                           port="5432"
                            )
-
-    #    print("Database: course_project_5 opened successfully")
-
     cur = con.cursor()
     cur.execute('''CREATE TABLE vacancies
          (id serial PRIMARY KEY NOT NULL,
@@ -46,17 +47,14 @@ def create_table_vacancies_postgres() -> None:
          url text);
          '''
                 )
-
-    #    print("Table: employers created successfully")
-
     con.commit()
     con.close()
 
 
-def push_data_in_employers(file_json: str) -> None:
+def push_data_in_employers(file_json: str = 'employers_data.json') -> None:
     """
-    Функция открывает указанный файл, берёт данные и загружает их в таблицу employers
-    :param file_json: Название файла, откуда будут взяты данные
+    Функция открывает файл, берёт данные и загружает их в таблицу employers
+    :param file_json: Название файла, откуда будут взяты данные. По умолчанию file_json = 'employers_data.json'
     :return: None
     """
     data_list = []
@@ -66,37 +64,30 @@ def push_data_in_employers(file_json: str) -> None:
 
         for row in data["items"]:
             data_tuple = tuple([row["id"], row["name"], row["url"], row["open_vacancies"]])
-
             data_list.append(data_tuple)
-
-        # for row in data_list:
-        #     print(row)
 
     con = psycopg2.connect(
         database="course_project_5",
-        user="postgres",
-        password="qwerty",
+        user=my_user,
+        password=my_password,
         host="127.0.0.1",
         port="5432"
     )
-
-    #    print("Database: course_project_5 opened successfully")
-
     cur = con.cursor()
-
     for row in data_list:
         cur.execute(
             "INSERT INTO employers (id, name, url,count_open_vacancies) VALUES "
             f"{row}"
         )
-
     con.commit()
-    #    print("Record inserted successfully")
     con.close()
 
 
-def push_data_in_vacancies(file_json: str) -> None:
-    """"""
+def push_data_in_vacancies(file_json: str = 'vacancies_data.json') -> None:
+    """
+    Функция открывает файл, берёт данные и загружает их в таблицу vacancies
+    :param file_json: Название файла, откуда будут взяты данные. По умолчанию file_json = 'vacancies_data.json'
+    :return: None"""
     data_list = []
 
     with open(file_json) as json_file:
@@ -117,51 +108,21 @@ def push_data_in_vacancies(file_json: str) -> None:
 
         con = psycopg2.connect(
             database="course_project_5",
-            user="postgres",
-            password="qwerty",
+            user=my_user,
+            password=my_password,
             host="127.0.0.1",
             port="5432"
         )
-
-#        print("Database: course_project_5 opened successfully")
         cur = con.cursor()
-
         for row in data_list:
             cur.execute(
                 "INSERT INTO vacancies "
                 "(id, employers_id, name, salary_from, salary_to, requirement, responsibility, url) VALUES"
                 f"{row}"
             )
-
         con.commit()
-#        print("Record inserted successfully")
         con.close()
 
 
 if __name__ == "__main__":
-    """"""
-    # create_table_employers_postgres()
-    # create_table_vacancies_postgres()
-    # push_data_in_employers('employers_data.json')
-    push_data_in_vacancies('vacancies_data.json')
-
-    # con = psycopg2.connect(
-    #     database="course_project_5",
-    #     user="postgres",
-    #     password="qwerty",
-    #     host="127.0.0.1",
-    #     port="5432"
-    # )
-    #
-    # #        print("Database: course_project_5 opened successfully")
-    # cur = con.cursor()
-    #
-    # cur.execute(
-    #     "INSERT INTO vacancies "
-    #     "(id, employers_id, name, salary_from, salary_to, requirement, responsibility, url) VALUES "
-    #     "(100, 36227, 'lalala', 100,101, 'abc', 'def', '')"
-    # )
-    #
-    # con.commit()
-    # #        print("Record inserted successfully")
-    # con.close()
+    pass
