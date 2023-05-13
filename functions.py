@@ -44,5 +44,4 @@ def get_data_vacancies_hh(file_json: str = 'employers_data.json') -> None:
 
 
 if __name__ == "__main__":
-    get_data_employers_hh()
-    get_data_vacancies_hh()
+    pass

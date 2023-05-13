@@ -95,11 +95,4 @@ class DBManager:
 
 
 if __name__ == "__main__":
-    aaa = DBManager()
-    data_1 = aaa.get_companies_and_vacancies_count()
-    data_2 = aaa.get_all_vacancies()
-    data_3 = aaa.get_avg_salary()
-    data_4 = aaa.get_vacancies_with_higher_salary()
-    data_5 = aaa.get_vacancies_with_keyword("Грузчик")
-
-    [print(row) for row in data_5]
+    pass
