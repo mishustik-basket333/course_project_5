@@ -1,12 +1,12 @@
+from functions_for_postgres import my_password, my_user, my_host, my_port, my_database
 import psycopg2
-from my_data import my_user, my_password
 
 
 class DBManager:
     """Класс для подключения и работы с DB postgres"""
 
-    def __init__(self, database: str = "course_project_5", user: str = my_user,
-                 password: str = my_password, host: str = "127.0.0.1", port="5432"):
+    def __init__(self, database: str = my_database, user: str = my_user,
+                 password: str = my_password, host: str = my_host, port=my_port):
         self.__database = database
         self.__user = user
         self.__password = password
@@ -95,13 +95,11 @@ class DBManager:
 
 
 if __name__ == "__main__":
-    aaa = DBManager(database="course_project_5", user="postgres", password="qwerty")
+    aaa = DBManager()
     data_1 = aaa.get_companies_and_vacancies_count()
     data_2 = aaa.get_all_vacancies()
     data_3 = aaa.get_avg_salary()
     data_4 = aaa.get_vacancies_with_higher_salary()
     data_5 = aaa.get_vacancies_with_keyword("Грузчик")
 
-    for row in data_5:
-        print(row)
-    print(len(data_5))
+    [print(row) for row in data_5]
