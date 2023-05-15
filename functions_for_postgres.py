@@ -6,6 +6,7 @@ try:
 except ModuleNotFoundError as mail_1:
     print(mail_1)
     print("Проверьте наличие config.py")
+    quit()
 
 
 def create_con():
@@ -21,6 +22,7 @@ def create_con():
     except psycopg2.OperationalError as mail_2:
         print(mail_2)
         print("Проверьте актуальность данных в config.py")
+        quit()
 
 
 def create_table_employers_postgres() -> None:
@@ -133,4 +135,5 @@ def push_data_in_vacancies(file_json: str = 'vacancies_data.json') -> None:
 
 
 if __name__ == "__main__":
+    create_table_employers_postgres()
     pass

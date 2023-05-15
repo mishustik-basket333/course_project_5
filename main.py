@@ -26,7 +26,8 @@ def main():
     data_2 = db_manager_1.get_all_vacancies()
     data_3 = db_manager_1.get_avg_salary()
     data_4 = db_manager_1.get_vacancies_with_higher_salary()
-    data_5 = db_manager_1.get_vacancies_with_keyword("Грузчик")
+    search_word = input("Введите слово, которое хотели бы видеть в названии вакансии: \n")
+    data_5 = db_manager_1.get_vacancies_with_keyword(search_word)
 
     # Вывод данных
     [print(row) for row in data_1]
