@@ -17,10 +17,10 @@ def create_con():
                                host=my_host,
                                port=my_port
                                )
+        return con
     except psycopg2.OperationalError as mail_2:
         print(mail_2)
         print("Проверьте актуальность данных в config.py")
-    return con
 
 
 def create_table_employers_postgres() -> None:
@@ -104,8 +104,11 @@ def push_data_in_vacancies(file_json: str = 'vacancies_data.json') -> None:
             for key, value in data.items():
 
                 for line in value["items"]:
-                    salary_from = line["salary"]["from"] if line["salary"]["from"] else 0
-                    salary_to = line["salary"]["to"] if line["salary"]["to"] else 0
+                    if line["salary"]:
+                        salary_from = line["salary"]["from"] if line["salary"]["from"] else 0
+                        salary_to = line["salary"]["to"] if line["salary"]["to"] else 0
+                    else:
+                        salary_from = salary_to = 0
                     requirement = line["snippet"]["requirement"] if line["snippet"]["requirement"] else ''
                     responsibility = line["snippet"]["responsibility"] if line["snippet"]["responsibility"] else ''
                     url = line["alternate_url"] if line["alternate_url"] else ''
