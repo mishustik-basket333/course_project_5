@@ -135,5 +135,4 @@ def push_data_in_vacancies(file_json: str = 'vacancies_data.json') -> None:
 
 
 if __name__ == "__main__":
-    create_table_employers_postgres()
     pass
